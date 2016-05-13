@@ -1,6 +1,6 @@
 # all-in-one
 
->>> 团队探索性功能开发实验室
+> 团队探索性功能开发实验室
 
 
 按照功能组织`package`，入口写在`HomepageActivity`中。
